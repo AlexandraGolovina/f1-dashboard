@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 Dashboard 2026</title>
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/components.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <img src="assets/logo.jpg" alt="F1 Logo" class="app-logo">
+    <div class="app-title">
+      <h1>F1 DASHBOARD</h1>
+      <p class="app-subtitle">Сезон 2026 · Панель управления</p>
+    </div>
+  </header>
+
+  <nav class="app-toolbar" aria-label="Панель добавления виджетов">
+    <button class="btn btn-primary" data-add="todo">+ ToDo</button>
+    <button class="btn btn-primary" data-add="standings">+ Положение пилотов</button>
+    <button class="btn btn-primary" data-add="calendar">+ Расписание</button>
+    <button class="btn btn-primary" data-add="nextrace">+ Следующая гонка</button>
+    <button class="btn btn-primary" data-add="track">+ Трасса</button>
+  </nav>
+
+  <main id="dashboard" class="dashboard" aria-live="polite"></main>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>

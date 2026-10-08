@@ -1,0 +1,12 @@
+[
+  { "position": 1, "name": "Max Verstappen", "driverId": "max_verstappen", "team": "Red Bull Racing", "points": 437 },
+  { "position": 2, "name": "Lando Norris",   "driverId": "norris",         "team": "McLaren",          "points": 374 },
+  { "position": 3, "name": "Charles Leclerc", "driverId": "leclerc",       "team": "Ferrari",          "points": 356 },
+  { "position": 4, "name": "Oscar Piastri",  "driverId": "piastri",        "team": "McLaren",          "points": 292 },
+  { "position": 5, "name": "Carlos Sainz",   "driverId": "sainz",          "team": "Ferrari",          "points": 290 },
+  { "position": 6, "name": "George Russell", "driverId": "russell",        "team": "Mercedes",         "points": 245 },
+  { "position": 7, "name": "Lewis Hamilton", "driverId": "hamilton",       "team": "Mercedes",         "points": 223 },
+  { "position": 8, "name": "Sergio Perez",   "driverId": "perez",          "team": "Red Bull Racing",  "points": 152 },
+  { "position": 9, "name": "Fernando Alonso", "driverId": "alonso",        "team": "Aston Martin",     "points": 62 },
+  { "position": 10, "name": "Nico Hulkenberg", "driverId": "hulkenberg",   "team": "Haas F1 Team",     "points": 41 }
+]
