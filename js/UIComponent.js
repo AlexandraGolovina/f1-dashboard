@@ -179,7 +179,8 @@ export class UIComponent {
 
   /** Просит Dashboard удалить этот виджет */
   close() {
-    if (this.onCloseRequest) this.onCloseRequest(this.id);
+    if (typeof this.onCloseRequest === 'function') {this.onCloseRequest(this.id);
+    }
   }
 
   /**
