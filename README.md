@@ -9,8 +9,8 @@
 
 ## 🔗 Демо
 
-- **Опубликованная версия:** [ссылка появится после публикации]
-- **Репозиторий:** [ссылка на GitHub]
+- **Опубликованная версия:** [https://alexandragolovina.github.io/f1-dashboard/]
+- **Репозиторий:** [https://github.com/AlexandraGolovina/f1-dashboard]
 
 ---
 
